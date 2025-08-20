@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx-sdk"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/firebird5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
